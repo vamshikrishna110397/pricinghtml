@@ -1,0 +1,64 @@
+.bod{
+    background-color: lavender;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.top{
+    display:flex;
+    justify-content: center;
+}
+.base{
+    width: 250px;
+    padding: 5px 60px;
+    border: 1px solid white;
+    margin: 10px;
+    background-color: white;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    text-align: top;
+}
+.dollar{
+    font-size:xx-large;
+    font-weight:900;
+    display: flex;
+    justify-content: center;
+}
+.butt{
+    display: block;
+    text-align: center;
+    width: 100px;
+    border: none;
+    cursor: pointer;
+    padding: 5px 80px;
+    margin: 10px;
+    color:lavender;
+}
+.ordered{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    }
+.base:hover {
+    width: 250px;
+    padding: 10px 80px;
+    border: 1px solid white;
+    margin: 10px;
+    background-color: rgb(202, 202, 230);
+    color: white;
+}
+.butt:hover{
+    color: blue;
+}
+.class{
+    background-color: blueviolet;
+    padding: 10px 10px;
+}
+    
+
+ 
+ 
+
